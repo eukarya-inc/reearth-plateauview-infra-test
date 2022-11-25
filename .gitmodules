@@ -1,0 +1,3 @@
+[submodule "reearth"]
+	path = reearth
+	url = https://github.com/reearth/reearth
